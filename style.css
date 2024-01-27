@@ -1,0 +1,63 @@
+header{
+    margin: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(lightgreen,lightyellow);
+    color: #000;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 1000;
+    font-style: oblique;
+
+}
+
+
+.name{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 1050;
+    font-style: normal;
+    
+}
+
+.box1 h2{
+    float: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    color: aliceblue;
+    letter-spacing: 2px;
+    font-weight: 1050;
+    font-style: normal;
+    
+}
+
+.box1 button{
+    position: absolute;
+  right: 200px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box1 a{
+    position: absolute;
+    right: 120px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    margin-top: 50px;
+
+} 
+
+h6{
+    text-align: center;
+    color: darkred;
+}
+
+.reg{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: khaki ;
+    color: #000;
+}
